@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Time",
+        "type": "date"
+    },
+    {
+        "name": "Type",
+        "type": "string"
+    },
+    {
+        "name": "Value",
+        "type": "number"
+    }
+]
